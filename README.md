@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering/software developer
 - 🌱 I’m currently learning fullstack developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 To reach me ...{LinkedIn https://www.linkedin.com/in/kalidash-r-b0802a217/}{kalidashramachandran@gmail.com}
+- 📫 To reach me ...{LinkedIn https://www.linkedin.com/in/kalidash-r-b0802a217/} {kalidashramachandran@gmail.com}
 
 <!---
 dhashr/dhashr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
