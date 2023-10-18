@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dhashr
 - 👀 I’m interested in software engineering/software developer
-- 🌱 I’m currently learning fullstack developer
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working fullstack developer in Whizlabs
 - 📫 To reach me ...{LinkedIn https://www.linkedin.com/in/kalidash-r-b0802a217/} {kalidashramachandran@gmail.com}
 
 <!---
