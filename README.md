@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalidash R</h1>
+<h1 align="center">Hi 👋, I'm Kalidash r</h1>
 <h3 align="center">Dynamic Software Developer specializing in building responsive web applications with JavaScript, ReactJS, NextJS, and NodeJS. Proficient in managing both SQL and NoSQL databases. Adept at API integration and leveraging AWS Developer Infrastructure and Deployment for robust solutions.</h3>
 
 - 🔭 I’m currently working on **Whizlabs Software Pvt Ltd**
@@ -16,6 +16,7 @@
 <a href="https://dev.to/kalidash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kalidash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kalidash r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalidash r" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kalidash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kalidash" height="30" width="40" /></a>
+<a href="https://codesandbox.com/kalidashr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kalidashr" height="30" width="40" /></a>
 <a href="https://medium.com/kalidashramachandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kalidashramachandran" height="30" width="40" /></a>
 </p>
 
