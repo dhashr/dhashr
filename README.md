@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalidash r</h1>
+<h1 align="center">Hi 👋, I'm Kalidash R</h1>
 <h3 align="center">Dynamic Software Developer specializing in building responsive web applications with JavaScript, ReactJS, NextJS, and NodeJS. Proficient in managing both SQL and NoSQL databases. Adept at API integration and leveraging AWS Developer Infrastructure and Deployment for robust solutions.</h3>
 
 - 🔭 I’m currently working on **Whizlabs Software Pvt Ltd**
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kalidashramachandran@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGKhfMW3-0/eIYSHzMNH7pIHF0HX79FFQ/edit?utm_content=DAGKhfMW3-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGKhfMW3-0/eIYSHzMNH7pIHF0HX79FFQ/edit?utm_content=DAGKhfMW3-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAGLASDUjic/czE6n0ZY_SkB0pDdSMufNg/edit?utm_content=DAGLASDUjic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGLASDUjic/czE6n0ZY_SkB0pDdSMufNg/edit?utm_content=DAGLASDUjic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
