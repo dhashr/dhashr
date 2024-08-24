@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalidash r</h1>
+<h1 align="center">Hi 👋, I'm Kalidash R</h1>
 <h3 align="center">Dynamic Software Developer specializing in building responsive web applications with JavaScript, ReactJS, NextJS, and NodeJS. Proficient in managing both SQL and NoSQL databases. Adept at API integration and leveraging AWS Developer Infrastructure and Deployment for robust solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhashr&label=Profile%20views&color=0e75b6&style=flat" alt="dhashr" /> </p>
