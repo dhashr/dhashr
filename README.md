@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Whizlabs Software**
 
-- 🌱 I’m currently learning **Python, Django, AWS**
+- 🌱 I’m currently learning **Typescript, Python, AWS**
 
-- 💬 Ask me about **javascript, react, next, node, PostgreSQL**
+- 💬 Ask me about **Javascript, React, Next, Node, PostgreSQL**
 
 - 📫 How to reach me **kalidashramachandran@gmail.com**
 
